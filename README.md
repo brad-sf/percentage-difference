@@ -1,4 +1,4 @@
-# PercentageDifferent - JavaScript
+# PercentageDifference - JavaScript
 
 Return the percentage difference between two numbers, optionally rounding.
 
