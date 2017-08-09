@@ -1,4 +1,4 @@
-const {percentDiff} = require('./index.js');
+const percentDiff = require('./index.js');
 
 if (percentDiff(600,700) !== 16.666666666666664)
     process.exit(1);
